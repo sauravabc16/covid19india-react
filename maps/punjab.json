@@ -2015,7 +2015,7 @@
     "translate": [73.879848, 29.54208]
   },
   "objects": {
-    "punjab_district": {
+    "districts": {
       "type": "GeometryCollection",
       "geometries": [
         {
@@ -2232,7 +2232,7 @@
           "type": "Polygon",
           "properties": {
             "dt_code": "043",
-            "district": "Firozpur",
+            "district": "Ferozepur",
             "st_code": "03",
             "year": "2011_c",
             "st_nm": "Punjab"

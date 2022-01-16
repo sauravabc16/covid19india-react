@@ -5250,7 +5250,7 @@
     "translate": [72.654608, 15.606125]
   },
   "objects": {
-    "maharashtra_district": {
+    "districts": {
       "type": "GeometryCollection",
       "geometries": [
         {
@@ -5258,7 +5258,7 @@
           "type": "Polygon",
           "properties": {
             "dt_code": "507",
-            "district": "Gondiya",
+            "district": "Gondia",
             "st_nm": "Maharashtra",
             "st_code": "27",
             "year": "2011_c"
@@ -5302,7 +5302,7 @@
           "type": "Polygon",
           "properties": {
             "dt_code": "500",
-            "district": "Buldana",
+            "district": "Buldhana",
             "st_nm": "Maharashtra",
             "st_code": "27",
             "year": "2011_c"
@@ -5390,7 +5390,7 @@
           "type": "Polygon",
           "properties": {
             "dt_code": "522",
-            "district": "Ahmadnagar",
+            "district": "Ahmednagar",
             "st_nm": "Maharashtra",
             "st_code": "27",
             "year": "2011_c"
@@ -5445,14 +5445,14 @@
           "type": "Polygon",
           "properties": {
             "dt_code": "523",
-            "district": "Bid",
+            "district": "Beed",
             "st_nm": "Maharashtra",
             "st_code": "27",
             "year": "2011_c"
           }
         },
         {
-          "arcs": [[70, 71, 72, 73]],
+          "arcs": [[72, 73, 70, 109, -96, -109]],
           "type": "Polygon",
           "properties": {
             "dt_code": "519",
@@ -5632,18 +5632,7 @@
           "type": "Polygon",
           "properties": {
             "dt_code": "520",
-            "district": "Raigarh",
-            "st_nm": "Maharashtra",
-            "st_code": "27",
-            "year": "2011_c"
-          }
-        },
-        {
-          "arcs": [[109, -96, -109, -72]],
-          "type": "Polygon",
-          "properties": {
-            "dt_code": "518",
-            "district": "Mumbai Suburban",
+            "district": "Raigad",
             "st_nm": "Maharashtra",
             "st_code": "27",
             "year": "2011_c"

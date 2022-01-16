@@ -2987,7 +2987,7 @@
     "translate": [89.69860199999998, 24.136603267634122]
   },
   "objects": {
-    "assam_district": {
+    "districts": {
       "type": "GeometryCollection",
       "geometries": [
         {
@@ -3325,7 +3325,7 @@
           "type": "Polygon",
           "properties": {
             "dt_code": "758",
-            "district": "South Salmara Mancachar",
+            "district": "South Salmara Mankachar",
             "st_code": "18",
             "year": "2015_c",
             "st_nm": "Assam"

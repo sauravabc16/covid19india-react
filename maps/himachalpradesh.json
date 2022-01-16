@@ -1221,7 +1221,7 @@
     "translate": [75.594723, 30.377701000000002]
   },
   "objects": {
-    "himachalpradesh_district": {
+    "districts": {
       "type": "GeometryCollection",
       "geometries": [
         {
@@ -1229,7 +1229,7 @@
           "type": "Polygon",
           "properties": {
             "dt_code": "025",
-            "district": "Lahul and Spiti",
+            "district": "Lahaul and Spiti",
             "st_code": "02",
             "year": "2011_c",
             "st_nm": "Himachal Pradesh"
